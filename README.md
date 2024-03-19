@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Aakash Ranjan</h1>
 <h3 align="center">A passionate full stack developer from India and I enjoy tackling problems with systematic and detail oriented approach and also loves to explore the world of computer science and IT</h3>
 <img align= "right" alt = "Coding" width= "400" src ="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
@@ -8,6 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, CP , ReactJS**
+
+- Currently pursuing **B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur**
+
+- 💬 Ask me about **DSA,HTML,CSS,JS**
 
 - 📫 How to reach me **ranjanaakash001@gmail.com**
 
@@ -28,5 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashranjan001&show_icons=true&locale=en" alt="aakashranjan001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashranjan001&" alt="aakashranjan001" /></p>
+
+
 
 
