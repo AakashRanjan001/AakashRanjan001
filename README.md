@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, CP , ReactJS**
+- 🌱 I’m currently learning **DSA, CP , Web dev**
 
 - Currently pursuing **B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur**
 
