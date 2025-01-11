@@ -12,11 +12,11 @@
 
 - Currently pursuing **B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur**
 
-- 💬 Ask me about **DSA,HTML,CSS,JS**
+- 💬 Ask me about **DSA,CP,HTML,CSS,JS**
 
 - 📫 How to reach me **ranjanaakash2678@gmail.com**
 
-- ⚡ Fun fact **I think i really enjoy the work that i am doing , not taking any pressure and do all my projects and solve problems with fun.**
+- ⚡ Fun fact **I genuinely enjoy the work I do, approaching each project and problem-solving opportunity with a sense of curiosity and excitement. By keeping the pressure at bay, I create a positive and engaging environment that allows me to tackle challenges with creativity and have fun throughout the journey..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +48,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     <span>Oracle</span>
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
+    <span>Visual Studio</span>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+    <span>Git</span>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    <span>NumPy</span>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+    <span>Pandas</span>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" />
+    <span>Seaborn</span>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
+    <span>Matplotlib</span>
+</a>
+
 </p>
 
 
