@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DSA,HTML,CSS,JS**
 
-- 📫 How to reach me **ranjanaakash001@gmail.com**
+- 📫 How to reach me **ranjanaakash2678@gmail.com**
 
 - ⚡ Fun fact **I think i really enjoy the work that i am doing , not taking any pressure and do all my projects and solve problems with fun.**
 
