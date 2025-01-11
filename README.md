@@ -48,35 +48,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     <span>Oracle</span>
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
-    <span>Visual Studio</span>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">Visual Studio</span>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-    <span>Git</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">Git</span>
 </a>
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-    <span>NumPy</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">NumPy</span>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-    <span>Pandas</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">Pandas</span>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" />
-    <span>Seaborn</span>
+    <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">Seaborn</span>
 </a>
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="text-align: center; display: inline-block;">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
-    <span>Matplotlib</span>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="display: block; margin: 0 auto;" />
+    <span style="display: block; text-align: center;">Matplotlib</span>
 </a>
+
 
 </p>
 
