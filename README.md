@@ -144,11 +144,12 @@
 
   - 🔭 &emsp; Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur
 
-  - 🌱 &emsp; I’m currently learning **MACHINE LEARNING**
+  - 🌱 &emsp; I’m currently exploring **SYSTEM DESIGN **
 
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS//JS/NODE.JS**
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/JS/NODE.JS**
 
-  - 📫 &emsp; How to reach me **ranjanaakash001@gmail.com**
+  - 📫 &emsp; How to reach me **ranjanaakash001@gmail.com and aranjan001.btech2022@it.nitrr.ac.in**
+    
 
 </p>
 
@@ -162,6 +163,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySql](![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
